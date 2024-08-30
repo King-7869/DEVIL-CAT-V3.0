@@ -12,24 +12,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: @No-Name-Tech" //ur yt chanel name
-global.socialm = "GitHub: Anime-King01" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: @No.mp6" //ur yt chanel name
+global.socialm = "GitHub: Arslan-Nasi" //ur github or insta name
+global.location = "Pakistan, Karachi" //ur location
 
 //new
-global.botname = '𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3' //ur bot name
-global.ownernumber = ['2348133286181'] //ur owner number, dont add more than one
-global.ownername = '𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊' //ur owner name
-global.websitex = "https://youtu.be/tLq8_qOOGFI"
-global.wagc = "https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t"
+global.botname = '#Death Not#' //ur bot name
+global.ownernumber = ['923012995636'] //ur owner number, dont add more than one
+global.ownername = '✪⏤͟͞★⃝ꪶ𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑➺' //ur owner name
+global.websitex = "https://www.instagram.com/no.pm6?igsh=eWVyZjR5N2RlZWM2"
+global.wagc = "https://www.instagram.com/no.pm6?igsh=eWVyZjR5N2RlZWM2"
 global.themeemoji = '🪀'
 global.wm = "No Name Tech Inc."
-global.botscript = 'https://github.com/Anime-King01/DEVIL-CAT-V3.0' //script link
-global.packname = "Sticker By"
-global.author = "𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3\n\n+2348133286181"
-global.creator = "2348133286181@s.whatsapp.net"
+global.botscript = 'https://github.com/King-7869/DEVIL-CAT-V3.0' //script link
+global.packname = "Sticker By ✪⏤͟͞★⃝ꪶ𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑➺"
+global.author = "✪⏤͟͞★⃝ꪶ𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑➺\n\n+923012995636"
+global.creator = "923012995636@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348133286181"] // Premium User
+global.premium = ["923012995636"] // Premium User
 
 //channel id
 global.xchannel = {
